@@ -1,0 +1,11 @@
+:root {
+  --color-primary: #2563eb;
+  --color-secondary: #f3f4f6;
+  --color-accent: #22d3ee;
+}
+
+/* Usage: 
+  background: var(--color-primary);
+  color: var(--color-accent);
+  background: var(--color-secondary);
+*/
